@@ -3,3 +3,5 @@
 
 * 2018年8月16日15:32:58
 > 修改微信数据库保存目录，将目录修改为SD卡。
+
+放一个[微信机器人](https://github.com/WANZIzZ/WeChatRobot)的传送门
