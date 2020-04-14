@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitHub-WeChatRecord.iml" filepath="$PROJECT_DIR$/GitHub-WeChatRecord.iml" group="WeChatRecord" />
       <module fileurl="file://$PROJECT_DIR$/WeChatRecord.iml" filepath="$PROJECT_DIR$/WeChatRecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/WeChatRecord-app.iml" filepath="$PROJECT_DIR$/app/WeChatRecord-app.iml" group="WeChatRecord/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
